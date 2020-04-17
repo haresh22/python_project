@@ -1,3 +1,6 @@
+# In tuple u cant modifyed the data 
+# Used by ()
+
 data = (10, 20, 30, -50, 30.40, "Life is Awseome")
 print(data) 
 print(data[-1])
