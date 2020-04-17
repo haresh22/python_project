@@ -1,3 +1,5 @@
+# Range is used with ()
+# Print with ([]) 
 
 data = range(5)
 
