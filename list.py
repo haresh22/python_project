@@ -1,12 +1,22 @@
 # List #
 
-data = [10,20,30,10.51,'Life is Awesomoe']
+data = [10,20,30,10.51,'Life is Awesome']
 print(data[-1])
 print(data[-2])
 print(data[-3])
 print(data[-4])
 print(data[-5])
+# Life is Awesome ( -1 Output )
+# 10.51 ( -2 Output )
+# 30 ( -3 Output )
+# 20 (-4 Output )
+# 10 (-5 Output )
 print(data[1])
 print(data[2])
 print(data[3])
 print(data[4])
+# 10 ( 1 Output )
+# 20 ( 2 Output )
+# 30 ( 3 Output )
+# 10.51 (4 Output ) 
+# 'Life is Awesome' ( 5 Output )
